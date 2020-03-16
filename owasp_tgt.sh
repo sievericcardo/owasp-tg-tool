@@ -208,7 +208,7 @@ while [ "$1" ]; do
             exit
             ;;
         '--nmap-scripting' | '-nS' )
-            nmap_script_scanning $1 $2
+            nmap_script_scanning "$1" "$2"
             exit
             ;;
     esac
