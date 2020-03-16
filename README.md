@@ -12,11 +12,14 @@ The idea of the script is to provide automated tools for the following parts:
 
 ### TODO
 
-Add test for weak cryptography.
-Add a brute force tester for the home page
-Check cookies for possible weak session managememnt
-Add a tester for possible sql injection and xss
-Check for other vulnerabilities
+- Add test for weak cryptography.
+- Add a brute force tester for the home page
+- Check cookies for possible weak session managememnt
+- Add a tester for possible sql injection and xss
+- Check for other vulnerabilities
+- Let a full execution
+- Add an automated report
+- Write a poper readme file at the end
 
 ## One final note
 
