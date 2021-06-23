@@ -10,7 +10,7 @@ The idea of the script is to provide automated tools for the following parts:
 - Information gathering about possible open port and vulnerabilities with nmap
 - Web application enumeration using wget to act as a spider in order to check every possible sublink
 
-### TODO
+### Some good add
 
 - Add test for weak cryptography.
 - Add a brute force tester for the home page
